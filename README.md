@@ -50,6 +50,7 @@ The detailed list of entities and the properties along with the description and 
 |{{linkedin_id}}|This merge field returns Linkedin profile id as it is which is saved by the owner.| |
 |{{owner.name}}|This merge field returns owner name .| Agile CRM|
 |{{owner.email}}|This merge field returns owner email id.|care@agilecrm.com|
+|{{owner.phone}}|This merge field returns owner phone.|care@agilecrm.com|
 |{{owner.calendar_url}}|This merge field returns owner calender url address| |
 |{{{owner.signature}}}|This merge field returns signature of owner in text format. | |
 |{{{unsubscribe_link}}}|This merge field returns a link to  unsubscribe by clicking on which user can unsubscribe for the services.|https://michel.agilecrm.com/unsubscribe?sid=5709436928655360|
